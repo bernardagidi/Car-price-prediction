@@ -59,12 +59,10 @@ The dataset contains information about used cars, including:
 
 ## 🛠 Technologies Used
 
-- Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-learn
 - Jupyter Notebook
 
 ---
