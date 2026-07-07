@@ -2,7 +2,11 @@
 
 A Machine Learning project that predicts the selling price of a used car based on its features such as manufacturing year, fuel type, transmission, mileage, engine size, horsepower, and other relevant attributes.
 
----
+<img width="131" height="123" alt="Image" src="https://github.com/user-attachments/assets/4fbe9d24-176e-4867-91fc-380624586894" />
+
+
+
+
 
 ## 📌 Project Overview
 
