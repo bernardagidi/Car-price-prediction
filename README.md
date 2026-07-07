@@ -1,6 +1,8 @@
-# Car-price-prediction
+# 🚗 Car Price Prediction
+
 A Machine Learning project that predicts the selling price of a used car based on its features such as manufacturing year, fuel type, transmission, mileage, engine size, horsepower, and other relevant attributes.
-<img width="180" height="168" alt="Image" src="https://github.com/user-attachments/assets/4a650364-4cc5-4145-b20b-f1bc9afdfc3d" />
+
+---
 
 ## 📌 Project Overview
 
@@ -58,10 +60,12 @@ The dataset contains information about used cars, including:
 
 ## 🛠 Technologies Used
 
+- Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
+- Scikit-learn
 - Jupyter Notebook
 
 ---
@@ -191,4 +195,5 @@ This project is licensed under the MIT License.
 
 - Scikit-learn Documentation
 - Kaggle Dataset Contributors
+- Python Open Source Community
 I am open to collaborate on data analysis, statistical analysis and visualization
