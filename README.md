@@ -191,4 +191,4 @@ This project is licensed under the MIT License.
 
 - Scikit-learn Documentation
 - Kaggle Dataset Contributors
-- Python Open Source Community
+I am open to collaborate on data analysis, statistical analysis and visualization
